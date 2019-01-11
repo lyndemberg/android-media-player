@@ -1,4 +1,4 @@
-package com.mesh.simplemetronome;
+package com.mesh.media;
 
 import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;

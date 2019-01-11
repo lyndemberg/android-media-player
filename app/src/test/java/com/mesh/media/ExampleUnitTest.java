@@ -1,4 +1,4 @@
-package com.mesh.simplemetronome;
+package com.mesh.media;
 
 import org.junit.Test;
 

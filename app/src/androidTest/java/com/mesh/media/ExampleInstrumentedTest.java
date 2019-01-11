@@ -1,4 +1,4 @@
-package com.mesh.simplemetronome;
+package com.mesh.media;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
